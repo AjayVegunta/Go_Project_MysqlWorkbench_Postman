@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/AjayVegunta/go-car_db/pkg/config"
+	"github.com/AjayVegunta/go-car_db/package/config"
 	"github.com/jinzhu/gorm"
 )
 

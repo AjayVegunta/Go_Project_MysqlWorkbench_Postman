@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AjayVegunta/go-car_db/pkg/routes"
+	"github.com/AjayVegunta/go-car_db/package/routes"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )

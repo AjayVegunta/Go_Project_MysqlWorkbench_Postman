@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/AjayVegunta/go-car_db/pkg/controllers"
+	"github.com/AjayVegunta/go-car_db/package/controllers"
 	"github.com/gorilla/mux"
 )
 

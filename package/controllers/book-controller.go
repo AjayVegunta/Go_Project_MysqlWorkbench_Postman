@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/AjayVegunta/go-car_db/pkg/models"
-	"github.com/AjayVegunta/go-car_db/pkg/utils"
+	"github.com/AjayVegunta/go-car_db/package/models"
+	"github.com/AjayVegunta/go-car_db/package/utils"
 	"github.com/gorilla/mux"
 )
 
