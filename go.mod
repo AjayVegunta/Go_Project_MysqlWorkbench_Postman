@@ -1,4 +1,4 @@
-module github.com/AjayVegunta/go-bookstore
+module github.com/AjayVegunta/go-car_db
 
 go 1.20
 
